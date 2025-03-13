@@ -1,0 +1,43 @@
+h1{text-align: center;}
+
+body { font-family: Arial, Helvetica, sans-serif;
+       margin: auto
+}
+       h2 {margin: 0px;
+}
+
+span {
+       color: #febe01;
+}
+
+.bike { background-color: #111;
+       padding: 20px;
+       margin: 50px;
+       width: 250px;       
+}
+
+.nomefds {border-radius: 5px;
+          margin: 10px;
+          color: #febe01;
+}
+
+img { width: 30px;
+
+}
+
+
+.item { background: #111;
+color: white;
+padding: 30px;
+margin: 80px;
+border-radius: 4px;
+}
+
+a{background: #febe01;
+border:4px;
+padding: 10px;
+color: black;
+text-decoration: none;
+border-radius: 4px;
+display: inline-block;
+}
